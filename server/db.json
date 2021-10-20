@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "himler hit",
+      "email": "ditto@mail.com",
+      "phone": "+121212121",
+      "dob": "01/01/1940",
+      "id": 8
+    },
+    {
+      "name": "shiutler",
+      "email": "meli@gmail.com",
+      "phone": "987987987",
+      "dob": "01/01/2021",
+      "id": 9
+    }
+  ]
+}
